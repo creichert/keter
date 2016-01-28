@@ -53,7 +53,7 @@ Library
                      , case-insensitive
                      , array
                      , mtl
-                     , warp
+                     , warp                      >= 3.1.3
                      , warp-tls                  >= 3.0.3
                      , aeson
                      , unordered-containers
