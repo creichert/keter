@@ -4,5 +4,5 @@ packages:
   - '.'
 extra-deps:
   - tls-1.3.5
-  - cryptonite-0.14
+  - cryptonite-0.15
 resolver: lts-5.10
