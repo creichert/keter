@@ -1,6 +1,8 @@
 flags:
   keter: {}
 packages:
-- '.'
-extra-deps: []
-resolver: lts-3.5
+  - '.'
+extra-deps:
+  - tls-1.3.5
+  - cryptonite-0.14
+resolver: lts-5.10
